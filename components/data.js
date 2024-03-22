@@ -16,7 +16,7 @@ import benefitThreeImg from "../public/4.jpeg";
 const benefitOne = {
   title: "Product",
   desc: "STITCHSWIFT acts as a bridge between discerning customers and a network of highly skilled tailors renowned for their expertise",
-  image: benefitOneImg,
+  image: "/2.jpeg",
   bullets: [
     {
       title: "User-Friendly Interface",
@@ -39,7 +39,7 @@ const benefitOne = {
 const benefitTwo = {
   title: "Services",
   desc: "",
-  image: benefitTwoImg,
+  image: "/3.jpeg",
   bullets: [
     {
       title: "Doorstep Measurement",
@@ -63,7 +63,7 @@ const benefitTwo = {
 const benefitThree = {
   title: "Mission",
   desc: "",
-  image: benefitThreeImg,
+  image: "/4.jpeg",
   bullets: [
     {
       title: "User-friendly platform",
