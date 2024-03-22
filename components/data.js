@@ -9,9 +9,9 @@ import {
   SparklesIcon,
 } from "@heroicons/react/24/solid";
 
-import benefitOneImg from "../public/img/2.jpeg";
-import benefitTwoImg from "../public/img/3.jpeg";
-import benefitThreeImg from "../public/img/4.jpeg";
+import benefitOneImg from "../public/2.jpeg";
+import benefitTwoImg from "../public/3.jpeg";
+import benefitThreeImg from "../public/4.jpeg";
 
 const benefitOne = {
   title: "Product",
