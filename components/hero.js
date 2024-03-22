@@ -31,7 +31,7 @@ const Hero = () => {
         </div>
         <div className="flex items-center justify-center w-full lg:w-1/2">
           <div className="">
-            <Image
+            <img
               src="/1.jpeg"
               width="616"
               height="617"
